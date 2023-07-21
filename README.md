@@ -1,2 +1,2 @@
 # Mind-Reader
-Guesses the Number you are thinking.
+A fun game, which guesses the number you are thinking.
